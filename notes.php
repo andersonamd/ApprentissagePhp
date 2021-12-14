@@ -15,6 +15,7 @@
         <h1>Page de Prise de Notes</h1>
    
     </div>
+    
 
 
     <script src="./JS/bootstrapmin.js"> </script>

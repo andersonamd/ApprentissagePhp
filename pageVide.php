@@ -15,6 +15,7 @@
         <h1>Page Vide</h1>
    
     </div>
+    
 
 
     <script src="./JS/bootstrapmin.js"> </script>
