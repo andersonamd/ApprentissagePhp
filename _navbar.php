@@ -8,18 +8,18 @@
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="../Exercice/index.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Accueil
+          <a class="nav-link active" href="./index.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Accueil
             </font></font><span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(courant)</font></font></span>
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="../Exercice/test.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Test</font></font></a>
+          <a class="nav-link active" href="./test.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Test</font></font></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="../Exercice/exercice.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exercices</font></font></a>
+          <a class="nav-link active" href="./exercice.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exercices</font></font></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="../Exercice/notes.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notes</font></font></a>
+          <a class="nav-link active" href="./notes.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notes</font></font></a>
         </li>
       </ul>
     </div>
