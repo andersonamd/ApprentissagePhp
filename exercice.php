@@ -16,10 +16,12 @@
         <h2>Les exercices en php</h2>
         <ol>
             <li>premier exo</li>
+            <li><a href="./exo2.php">exercice 2</a> : décoder des chaines de caractère  </li>
+            <li><a href="./exo3.php">exercice 3</a> : travailler avec des tableaux  </li>
         </ol>
    
     </div>
-    
+
 
 
     <script src="./JS/bootstrapmin.js"> </script>

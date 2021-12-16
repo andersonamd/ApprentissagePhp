@@ -15,7 +15,37 @@
         <h1>Page de Test</h1>
    
         <pre>
-            <?php echo "php test"; ?>
+        résultats php
+        ===================================================
+          
+          
+            
+            
+            
+            
+            <?php 
+        
+        
+        $message1 = "0@sn9sirppa@#?ia'jgtvryko1";
+        $message2 = "q8e?wsellecif@#?sel@#?setuotpazdsy0*b9+mw@x1vj";
+        $message3 = "aopi?sgnirts@#?sedhtg+p9l!";
+        
+        // var_dump($message1);
+        //26 donc chiffre clé = 13
+
+        
+
+
+
+
+
+            ?>
+
+
+
+
+
+        ===================================================
         </pre>
     </div>
     
