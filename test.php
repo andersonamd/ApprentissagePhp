@@ -51,7 +51,7 @@
         //         $vigenere[$line][$column] = $doubleAlphaTab[$i + $j];
         //     }
         // }
-
+        phpinfo();
         
 
 
