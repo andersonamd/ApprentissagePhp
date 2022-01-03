@@ -17,31 +17,49 @@
         <pre>
         résultats php
         ===================================================
-          
+    
           
             
             
             
             
             <?php 
+        // // float, int, string, array, object, bool, void(rien)
+
+        // function plus(float $value1, float $value2): void
+        // { 
+        // $value1 += 50;
+        // $result = $value1 + $value2;
+        // echo "result";
+        // }
+
+        // $value1 = 4;
+        // $value2 = 18;
+        // $add = plus($value1, $value2);
+
+        // var_dump($value1);
+        // $alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        // $alphabetTab = str_split($alphabet);
+        // $doubleAlphaTab = array_merge($alphabetTab, $alphabetTab);
         
-        
-        $message1 = "0@sn9sirppa@#?ia'jgtvryko1";
-        $message2 = "q8e?wsellecif@#?sel@#?setuotpazdsy0*b9+mw@x1vj";
-        $message3 = "aopi?sgnirts@#?sedhtg+p9l!";
-        
-        // var_dump($message1);
-        //26 donc chiffre clé = 13
+        // $sizeAlphabet = count($alphabetTab);
+
+        // for ($i = 0; $i < $sizeAlphabet; $i++){
+        //     for($i = 0; $j < $sizeAlphabet; $j++){
+        //         $line = $alphabetTab[$i];
+        //         $column = $alphabetTab[$j];
+        //         $vigenere[$line][$column] = $doubleAlphaTab[$i + $j];
+        //     }
+        // }
 
         
 
 
 
 
+         ?>
 
-            ?>
-
-
+            <h1>coucou</h1>
 
 
 
